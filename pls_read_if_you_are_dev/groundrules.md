@@ -8,7 +8,7 @@ Well, you'll need to know some general stuffs
 1. keep the code clean, pls lang
 
 Clean code:
-`
+```
 
   <h1> Hey! This is a title! </h1>
 
@@ -16,7 +16,7 @@ Clean code:
   <br>
   <p> I like <b> cheeseburgers </b> <p>
 
-`
+```
 
 
 NOT clean code:
