@@ -8,23 +8,24 @@ Well, you'll need to know some general stuffs
 1. keep the code clean, pls lang
 
 Clean code:
-`code` 
-
+``` 
+{
   <h1> Hey! This is a title! </h1>
 
   <p> Hey! This is a paragraph! <p>
   <br>
   <p> I like <b> cheeseburgers </b> <p>
+}
+``` 
 
-`code`
 
 NOT clean code:
 
-`code`
 
-  <h1>Hey! This is a title!</H1><P>Hey! This is a paragraph!</p><P>I like<b>cheeseburgers</B><p>
 
-`code`
+  ` <h1>Hey! This is a title!</H1><P>Hey! This is a paragraph!</p><P>I like<b>cheeseburgers</B><p> `
+
+
 
 2. always write a descriptive-ish commit message!
 
