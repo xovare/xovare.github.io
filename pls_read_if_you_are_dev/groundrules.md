@@ -9,13 +9,13 @@ Well, you'll need to know some general stuffs
 
 Clean code:
 ``` 
-{
+
   <h1> Hey! This is a title! </h1>
 
   <p> Hey! This is a paragraph! <p>
   <br>
   <p> I like <b> cheeseburgers </b> <p>
-}
+
 ``` 
 
 
