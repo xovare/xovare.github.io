@@ -23,7 +23,9 @@ NOT clean code:
 
 
 
-  ` <h1>Hey! This is a title!</H1><P>Hey! This is a paragraph!</p><P>I like<b>cheeseburgers</B><p> `
+  ```
+  <h1>Hey! This is a title!</H1><P>Hey! This is a paragraph!</p><P>I like<b>cheeseburgers</B><p>
+  ```
 
 
 
